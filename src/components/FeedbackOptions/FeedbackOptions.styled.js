@@ -13,6 +13,9 @@ export const StyledButton = styled.button`
   align-content: center;
   align-items: center;
   border-radius: 10px;
+  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px,
+    rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px,
+    rgb(255, 85, 85) 0px 0px 0px 15px;
   border: none;
   color: black;
   text-transform: uppercase;

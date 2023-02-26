@@ -6,12 +6,13 @@ export const StyledStatistics = styled.div`
 `;
 
 export const StyledStatisticsText = styled.p`
-  background: white;
+  background: yellowgreen;
   border-radius: 10px;
   padding: 10px;
   line-height: 30px;
   min-width: 80px;
   margin: 0;
+  margin-bottom: 20px;
   text-align: center;
   color: black;
 `;
